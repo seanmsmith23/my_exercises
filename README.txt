@@ -1,4 +1,4 @@
-This exercise builds off the roman numerals exercise from 'ruby-basics'
+This exercise builds off the roman numerals exercise from 'ruby-basics'.
 Use the code in the 'array_exercise' file.
 
 1) Make sure you understand how it works.
